@@ -1,0 +1,29 @@
+[
+    {
+      "nombre": "Almohadon Alcantra",
+      "codigo": 1,
+      "precio": 1000,
+      "imagen":
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/427/164/products/2ea6b937-eae0-4887-8b2d-1fb5735c37ea1-5973d12a63bc2e1f3216669929943600-640-0.png"
+    },
+    {
+      "nombre": "Almohadon Dublin",
+      "codigo": 2,
+      "precio": 2000,
+      "imagen":
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/427/164/products/screen-shot-2022-09-12-at-12-53-37-b6ce543486cfeeaa5916630677759702-640-0.png"
+    },
+    {
+      "nombre": "Almohadon Mikonos",
+      "codigo": 3,
+      "precio": 3000,
+      "imagen":
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/427/164/products/casacasagosto-111-76bebb90373bc7683e16346594479562-640-0.jpg"
+    },
+    {
+      "nombre": "Almohadon Milan",
+      "codigo": 4,
+      "precio": 4000,
+      "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/427/164/products/cpetrica-verde-oliva61-c734bba6a06a4c95b216330098581560-1024-1024.jpg"
+    }
+  ]
